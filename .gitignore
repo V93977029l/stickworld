@@ -1,0 +1,13 @@
+# Godot
+.import/
+export/
+*.translation
+
+# IDE
+.vs/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
