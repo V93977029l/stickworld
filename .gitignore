@@ -2,12 +2,57 @@
 .import/
 export/
 *.translation
+**/.godot/
+.godot/
+
+# Godot 4 GDExtension 构建输出
+*.so
+*.dll
+*.dylib
+gdextension_crash_on_quit.txt
+
+# AI 助手记忆 / 本地状态
+.workbuddy/
+.mcp/
+.codebuddy/
+
+# AI 工具本地运行时产物
+**/__pycache__/
+**/*.pyc
+tools/godot_ai_repo/.venv/
+tools/godot_ai_repo/venv/
+tools/vector_db/chroma_db/
+
+# 调试 / 日志
+debug.log
+*.log
 
 # IDE
 .vs/
+.vscode/*
+!.vscode/settings.json
 *.swp
 *.swo
+*.sublime-workspace
+.idea/
+
+# 编辑器缓存（Godot 自动生成文件）
+*.ctex
+*.md5
+*.res-folding-*.cfg
+
+# Godot 导出 / 构建产物
+build/
+dist/
+*.exe
+*.pck
+*.zip
+
+# 测试报告
+test-reports/
+test-results/
+coverage/
+*.xml
 
 # OS
-.DS_Store
-Thumbs.db
+.DS_
