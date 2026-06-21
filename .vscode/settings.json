@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        ".workbuddy": true,
+        ".codebuddy": true
+    }
+}
