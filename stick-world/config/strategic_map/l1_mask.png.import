@@ -1,0 +1,14 @@
+[remap]
+
+importer="image"
+type="Image"
+uid="uid://cy7r31dbfaknh"
+path="res://.godot/imported/l1_mask.png-48baa75784916f267e1c0c9e62e50d49.image"
+
+[deps]
+
+source_file="res://config/strategic_map/l1_mask.png"
+dest_files=["res://.godot/imported/l1_mask.png-48baa75784916f267e1c0c9e62e50d49.image"]
+
+[params]
+
