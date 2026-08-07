@@ -1,0 +1,246 @@
+{
+ "tool": "l2_tile_size_marker",
+ "purpose": "标记阈值样本：small=太小应并, big=太大应拆",
+ "regions": {
+  "region_002": {
+   "small": [
+    {
+     "label": 14,
+     "area_px": 25719,
+     "area_ratio": 0.028594458774348484
+    },
+    {
+     "label": 13,
+     "area_px": 48918,
+     "area_ratio": 0.05438717424175042
+    }
+   ],
+   "big": []
+  },
+  "region_003": {
+   "small": [
+    {
+     "label": 2,
+     "area_px": 35815,
+     "area_ratio": 0.03981922084852797
+    },
+    {
+     "label": 7,
+     "area_px": 9170,
+     "area_ratio": 0.010195232589166593
+    }
+   ],
+   "big": [
+    {
+     "label": 3,
+     "area_px": 36206,
+     "area_ratio": 0.04025393578226452
+    }
+   ]
+  },
+  "region_004": {
+   "small": [
+    {
+     "label": 10,
+     "area_px": 128821,
+     "area_ratio": 0.14322356132704794
+    }
+   ],
+   "big": [
+    {
+     "label": 9,
+     "area_px": 103887,
+     "area_ratio": 0.1155018678288713
+    }
+   ]
+  },
+  "region_005": {
+   "small": [
+    {
+     "label": 9,
+     "area_px": 103887,
+     "area_ratio": 0.1155018678288713
+    },
+    {
+     "label": 5,
+     "area_px": 26954,
+     "area_ratio": 0.029967535355332208
+    },
+    {
+     "label": 14,
+     "area_px": 25719,
+     "area_ratio": 0.028594458774348484
+    }
+   ],
+   "big": []
+  },
+  "region_006": {
+   "small": [],
+   "big": [
+    {
+     "label": 4,
+     "area_px": 16507,
+     "area_ratio": 0.01835253046339945
+    }
+   ]
+  },
+  "region_008": {
+   "small": [
+    {
+     "label": 6,
+     "area_px": 152495,
+     "area_ratio": 0.1695443831717513
+    },
+    {
+     "label": 16,
+     "area_px": 11074,
+     "area_ratio": 0.012312105309970648
+    },
+    {
+     "label": 19
+    },
+    {
+     "label": 17,
+     "area_px": 56012,
+     "area_ratio": 0.06227430401138486
+    },
+    {
+     "label": 13,
+     "area_px": 48918,
+     "area_ratio": 0.05438717424175042
+    },
+    {
+     "label": 7,
+     "area_px": 9170,
+     "area_ratio": 0.010195232589166593
+    },
+    {
+     "label": 12,
+     "area_px": 74802,
+     "area_ratio": 0.08316508049452993
+    }
+   ],
+   "big": [
+    {
+     "label": 11,
+     "area_px": 93328,
+     "area_ratio": 0.10376234101218536
+    }
+   ]
+  },
+  "region_009": {
+   "small": [
+    {
+     "label": 9,
+     "area_px": 103887,
+     "area_ratio": 0.1155018678288713
+    },
+    {
+     "label": 13,
+     "area_px": 48918,
+     "area_ratio": 0.05438717424175042
+    }
+   ],
+   "big": [
+    {
+     "label": 4,
+     "area_px": 16507,
+     "area_ratio": 0.01835253046339945
+    }
+   ]
+  },
+  "region_010": {
+   "small": [
+    {
+     "label": 6,
+     "area_px": 152495,
+     "area_ratio": 0.1695443831717513
+    },
+    {
+     "label": 10,
+     "area_px": 128821,
+     "area_ratio": 0.14322356132704794
+    }
+   ],
+   "big": [
+    {
+     "label": 5,
+     "area_px": 26954,
+     "area_ratio": 0.029967535355332208
+    }
+   ]
+  },
+  "region_011": {
+   "small": [
+    {
+     "label": 15,
+     "area_px": 25103,
+     "area_ratio": 0.027909588188205995
+    }
+   ],
+   "big": []
+  },
+  "region_012": {
+   "small": [
+    {
+     "label": 5,
+     "area_px": 26954,
+     "area_ratio": 0.029967535355332208
+    },
+    {
+     "label": 15,
+     "area_px": 25103,
+     "area_ratio": 0.027909588188205995
+    },
+    {
+     "label": 4,
+     "area_px": 16507,
+     "area_ratio": 0.01835253046339945
+    },
+    {
+     "label": 7,
+     "area_px": 9170,
+     "area_ratio": 0.010195232589166593
+    },
+    {
+     "label": 14,
+     "area_px": 25719,
+     "area_ratio": 0.028594458774348484
+    }
+   ],
+   "big": [
+    {
+     "label": 10,
+     "area_px": 128821,
+     "area_ratio": 0.14322356132704794
+    }
+   ]
+  },
+  "region_013": {
+   "small": [
+    {
+     "label": 4,
+     "area_px": 16507,
+     "area_ratio": 0.01835253046339945
+    },
+    {
+     "label": 7,
+     "area_px": 9170,
+     "area_ratio": 0.010195232589166593
+    },
+    {
+     "label": 2,
+     "area_px": 35815,
+     "area_ratio": 0.03981922084852797
+    }
+   ],
+   "big": [
+    {
+     "label": 6,
+     "area_px": 152495,
+     "area_ratio": 0.1695443831717513
+    }
+   ]
+  }
+ }
+}
