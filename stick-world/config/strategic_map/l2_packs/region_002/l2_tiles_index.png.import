@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cdlftoyrdi2qp"
-path="res://.godot/imported/l3_base_2048.png-b54ee77cde3c5cbfcee9185b29ece7cc.ctex"
+uid="uid://hcimo47npag"
+path="res://.godot/imported/l2_tiles_index.png-b8cdb12a30dcbf13ca9588e26dda9bef.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://config/strategic_map/l3_base_2048.png"
-dest_files=["res://.godot/imported/l3_base_2048.png-b54ee77cde3c5cbfcee9185b29ece7cc.ctex"]
+source_file="res://config/strategic_map/l2_packs/region_002/l2_tiles_index.png"
+dest_files=["res://.godot/imported/l2_tiles_index.png-b8cdb12a30dcbf13ca9588e26dda9bef.ctex"]
 
 [params]
 
