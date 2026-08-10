@@ -1,6 +1,6 @@
 # L2 地图包素材（13 个地区）
 
-由 `tools/worldgen/export_l2_packs.py` 生成。消费方：L2 地区图（战略图下一级）制作、L2 内部地块（L1）Voronoi 细分、地图系统素材。
+由 `tools/worldgen/l2_export/export_l2_packs.py` 生成。消费方：L2 地区图（战略图下一级）制作、L2 内部地块（L1）Voronoi 细分、地图系统素材。
 
 ## 全局文件
 
