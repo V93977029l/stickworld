@@ -21028,7 +21028,7 @@
     134
    ],
    "small_exempt": false,
-   "player_start": true
+   "player_start": false
   },
   {
    "label": 70,
@@ -61578,7 +61578,7 @@
     221
    ],
    "small_exempt": false,
-   "player_start": false
+   "player_start": true
   },
   {
    "label": 220,
