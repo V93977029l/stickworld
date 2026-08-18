@@ -381,7 +381,8 @@
     6,
     8
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 2,
@@ -906,7 +907,8 @@
     1,
     6
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 3,
@@ -1079,7 +1081,8 @@
     4,
     7
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 4,
@@ -1243,7 +1246,8 @@
    "neighbors": [
     3
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 5,
@@ -1584,7 +1588,8 @@
     1,
     8
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 6,
@@ -1719,7 +1724,8 @@
     8,
     9
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 7,
@@ -1917,7 +1923,8 @@
     10,
     11
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 8,
@@ -2222,7 +2229,8 @@
     6,
     9
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 9,
@@ -2522,7 +2530,8 @@
     8,
     10
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 10,
@@ -2871,7 +2880,8 @@
     11,
     13
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 11,
@@ -3172,7 +3182,8 @@
     14,
     15
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 12,
@@ -3505,7 +3516,8 @@
     11,
     15
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 13,
@@ -3751,7 +3763,8 @@
     11,
     14
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 14,
@@ -3894,7 +3907,8 @@
     15,
     16
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 15,
@@ -4253,7 +4267,8 @@
     14,
     16
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 16,
@@ -4465,7 +4480,8 @@
     15,
     19
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 17,
@@ -4942,7 +4958,8 @@
     18,
     22
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 18,
@@ -5499,7 +5516,8 @@
     17,
     22
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 19,
@@ -5952,7 +5970,8 @@
     16,
     20
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 20,
@@ -6190,7 +6209,8 @@
     21,
     24
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 21,
@@ -7077,7 +7097,8 @@
     24,
     26
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 22,
@@ -7997,7 +8018,8 @@
     23,
     26
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 23,
@@ -8313,7 +8335,8 @@
    "neighbors": [
     22
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 24,
@@ -8654,7 +8677,8 @@
     20,
     21
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 25,
@@ -8899,7 +8923,8 @@
     26,
     27
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 26,
@@ -9823,7 +9848,8 @@
     27,
     28
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 27,
@@ -9997,7 +10023,8 @@
     26,
     28
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 28,
@@ -10362,7 +10389,8 @@
     26,
     27
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 29,
@@ -10624,7 +10652,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 30,
@@ -10688,7 +10717,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 31,
@@ -10754,7 +10784,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 32,
@@ -11264,7 +11295,8 @@
     35,
     44
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 33,
@@ -11502,7 +11534,8 @@
     35,
     36
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 34,
@@ -11748,7 +11781,8 @@
     33,
     35
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 35,
@@ -12023,7 +12057,8 @@
     52,
     53
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 36,
@@ -12318,7 +12353,8 @@
     52,
     56
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 37,
@@ -12683,7 +12719,8 @@
     38,
     41
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 38,
@@ -12932,7 +12969,8 @@
     37,
     39
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 39,
@@ -13202,7 +13240,8 @@
    "neighbors": [
     38
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 40,
@@ -13416,7 +13455,8 @@
     42,
     43
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 41,
@@ -13670,7 +13710,8 @@
     40,
     43
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 42,
@@ -13973,7 +14014,8 @@
     46,
     47
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 43,
@@ -14226,7 +14268,8 @@
     42,
     48
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 44,
@@ -14681,7 +14724,8 @@
     45,
     49
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 45,
@@ -14816,7 +14860,8 @@
     49,
     50
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 46,
@@ -15047,7 +15092,8 @@
     47,
     50
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 47,
@@ -15324,7 +15370,8 @@
     50,
     51
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 48,
@@ -15625,7 +15672,8 @@
     43,
     76
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 49,
@@ -15857,7 +15905,8 @@
     50,
     53
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 50,
@@ -16027,7 +16076,8 @@
     53,
     54
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 51,
@@ -16376,7 +16426,8 @@
     54,
     55
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 52,
@@ -16616,7 +16667,8 @@
     56,
     57
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 53,
@@ -16883,7 +16935,8 @@
     57,
     58
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 54,
@@ -17018,7 +17071,8 @@
     53,
     55
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 55,
@@ -17456,7 +17510,8 @@
     53,
     54
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 56,
@@ -17760,7 +17815,8 @@
     59,
     60
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 57,
@@ -17904,7 +17960,8 @@
     58,
     60
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 58,
@@ -18108,7 +18165,8 @@
     57,
     60
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 59,
@@ -18306,7 +18364,8 @@
     60,
     61
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 60,
@@ -18578,7 +18637,8 @@
     59,
     61
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 61,
@@ -18758,7 +18818,8 @@
     60,
     62
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 62,
@@ -19130,7 +19191,8 @@
     63,
     64
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 63,
@@ -19489,7 +19551,8 @@
     65,
     215
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 64,
@@ -19760,7 +19823,8 @@
     65,
     66
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 65,
@@ -20161,7 +20225,8 @@
     66,
     67
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 66,
@@ -20352,7 +20417,8 @@
     69,
     70
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 67,
@@ -20542,7 +20608,8 @@
     66,
     70
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 68,
@@ -20845,7 +20912,8 @@
     71,
     72
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 69,
@@ -20959,7 +21027,8 @@
     72,
     134
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": true
   },
   {
    "label": 70,
@@ -21143,7 +21212,8 @@
     133,
     134
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 71,
@@ -21467,7 +21537,8 @@
    "neighbors": [
     68
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 72,
@@ -22026,7 +22097,8 @@
     138,
     144
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 73,
@@ -22353,7 +22425,8 @@
     78,
     79
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 74,
@@ -22654,7 +22727,8 @@
     73,
     75
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 75,
@@ -22982,7 +23056,8 @@
     74,
     79
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 76,
@@ -23310,7 +23385,8 @@
     80,
     81
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 77,
@@ -23445,7 +23521,8 @@
     81,
     82
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 78,
@@ -23645,7 +23722,8 @@
     79,
     82
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 79,
@@ -23821,7 +23899,8 @@
     82,
     83
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 80,
@@ -24020,7 +24099,8 @@
     84,
     85
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 81,
@@ -24149,7 +24229,8 @@
     85,
     86
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 82,
@@ -24335,7 +24416,8 @@
     86,
     87
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 83,
@@ -24532,7 +24614,8 @@
     79,
     82
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 84,
@@ -25161,7 +25244,8 @@
     80,
     85
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 85,
@@ -25384,7 +25468,8 @@
     84,
     86
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 86,
@@ -25632,7 +25717,8 @@
     87,
     91
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 87,
@@ -25815,7 +25901,8 @@
     88,
     91
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 88,
@@ -26079,7 +26166,8 @@
     92,
     93
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 89,
@@ -26292,7 +26380,8 @@
     88,
     93
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 90,
@@ -26575,7 +26664,8 @@
     91,
     94
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 91,
@@ -26833,7 +26923,8 @@
     94,
     95
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 92,
@@ -26969,7 +27060,8 @@
     95,
     96
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 93,
@@ -27208,7 +27300,8 @@
     92,
     96
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 94,
@@ -27448,7 +27541,8 @@
     98,
     99
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 95,
@@ -27609,7 +27703,8 @@
     99,
     100
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 96,
@@ -27793,7 +27888,8 @@
     97,
     100
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 97,
@@ -28233,7 +28329,8 @@
     104,
     106
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 98,
@@ -28447,7 +28544,8 @@
     99,
     102
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 99,
@@ -28600,7 +28698,8 @@
     102,
     103
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 100,
@@ -28745,7 +28844,8 @@
     101,
     103
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 101,
@@ -28880,7 +28980,8 @@
     103,
     104
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 102,
@@ -29111,7 +29212,8 @@
     103,
     105
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 103,
@@ -29264,7 +29366,8 @@
     104,
     105
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 104,
@@ -29392,7 +29495,8 @@
     105,
     106
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 105,
@@ -29609,7 +29713,8 @@
     110,
     111
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 106,
@@ -29858,7 +29963,8 @@
     111,
     112
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 107,
@@ -30128,7 +30234,8 @@
     112,
     113
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 108,
@@ -30464,7 +30571,8 @@
    "neighbors": [
     115
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 109,
@@ -30797,7 +30905,8 @@
     110,
     116
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 110,
@@ -31270,7 +31379,8 @@
     118,
     121
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 111,
@@ -31422,7 +31532,8 @@
     112,
     118
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 112,
@@ -31624,7 +31735,8 @@
     119,
     120
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 113,
@@ -31815,7 +31927,8 @@
     114,
     120
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 114,
@@ -32364,7 +32477,8 @@
     113,
     120
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 115,
@@ -32633,7 +32747,8 @@
     108,
     116
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 116,
@@ -33048,7 +33163,8 @@
     121,
     147
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 117,
@@ -33192,7 +33308,8 @@
     122,
     123
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 118,
@@ -33345,7 +33462,8 @@
     119,
     123
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 119,
@@ -33473,7 +33591,8 @@
     123,
     124
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 120,
@@ -33641,7 +33760,8 @@
     119,
     124
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 121,
@@ -34138,7 +34258,8 @@
     117,
     122
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 122,
@@ -34320,7 +34441,8 @@
     121,
     123
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 123,
@@ -34617,7 +34739,8 @@
     124,
     125
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 124,
@@ -34760,7 +34883,8 @@
     123,
     125
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 125,
@@ -35103,7 +35227,8 @@
     126,
     127
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 126,
@@ -35332,7 +35457,8 @@
     125,
     127
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 127,
@@ -35601,7 +35727,8 @@
     125,
     126
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 128,
@@ -36493,7 +36620,8 @@
    "neighbors": [
     129
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 129,
@@ -37269,7 +37397,8 @@
     130,
     142
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 130,
@@ -37626,7 +37755,8 @@
     129,
     131
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 131,
@@ -37837,7 +37967,8 @@
     130,
     161
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 132,
@@ -37887,7 +38018,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 133,
@@ -38100,7 +38232,8 @@
     135,
     136
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 134,
@@ -38355,7 +38488,8 @@
     133,
     135
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 135,
@@ -38514,7 +38648,8 @@
     136,
     139
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 136,
@@ -39498,7 +39633,8 @@
     140,
     141
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 137,
@@ -39760,7 +39896,8 @@
     142,
     143
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 138,
@@ -39943,7 +40080,8 @@
     143,
     144
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 139,
@@ -40159,7 +40297,8 @@
     145,
     146
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 140,
@@ -40438,7 +40577,8 @@
     141,
     146
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 141,
@@ -40625,7 +40765,8 @@
     136,
     140
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 142,
@@ -41105,7 +41246,8 @@
     149,
     161
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 143,
@@ -41242,7 +41384,8 @@
     149,
     150
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 144,
@@ -41445,7 +41588,8 @@
     152,
     153
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 145,
@@ -41640,7 +41784,8 @@
     146,
     153
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 146,
@@ -41905,7 +42050,8 @@
     153,
     154
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 147,
@@ -42392,7 +42538,8 @@
     148,
     154
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 148,
@@ -42941,7 +43088,8 @@
     147,
     154
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 149,
@@ -43100,7 +43248,8 @@
     150,
     155
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 150,
@@ -43261,7 +43410,8 @@
     155,
     156
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 151,
@@ -43422,7 +43572,8 @@
     157,
     158
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 152,
@@ -43557,7 +43708,8 @@
     153,
     158
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 153,
@@ -43711,7 +43863,8 @@
     158,
     159
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 154,
@@ -44064,7 +44217,8 @@
     159,
     160
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 155,
@@ -44464,7 +44618,8 @@
     161,
     162
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 156,
@@ -44617,7 +44772,8 @@
     162,
     163
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 157,
@@ -44792,7 +44948,8 @@
     158,
     163
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 158,
@@ -44960,7 +45117,8 @@
     157,
     159
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 159,
@@ -45122,7 +45280,8 @@
     165,
     166
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 160,
@@ -45312,7 +45471,8 @@
     159,
     166
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 161,
@@ -46040,7 +46200,8 @@
     162,
     168
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 162,
@@ -46177,7 +46338,8 @@
     168,
     169
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 163,
@@ -46489,7 +46651,8 @@
     169,
     170
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 164,
@@ -46736,7 +46899,8 @@
     170,
     171
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 165,
@@ -46888,7 +47052,8 @@
     171,
     172
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 166,
@@ -47293,7 +47458,8 @@
     165,
     172
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 167,
@@ -47691,7 +47857,8 @@
     174,
     181
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 168,
@@ -47907,7 +48074,8 @@
     175,
     176
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 169,
@@ -48163,7 +48331,8 @@
     170,
     176
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 170,
@@ -48497,7 +48666,8 @@
     171,
     177
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 171,
@@ -48659,7 +48829,8 @@
     178,
     179
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 172,
@@ -49283,7 +49454,8 @@
     179,
     188
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 173,
@@ -49633,7 +49805,8 @@
     180,
     181
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 174,
@@ -50297,7 +50470,8 @@
     182,
     183
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 175,
@@ -50504,7 +50678,8 @@
     176,
     183
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 176,
@@ -50672,7 +50847,8 @@
     169,
     175
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 177,
@@ -50823,7 +50999,8 @@
     178,
     185
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 178,
@@ -51049,7 +51226,8 @@
     187,
     188
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 179,
@@ -51192,7 +51370,8 @@
     178,
     188
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 180,
@@ -51388,7 +51567,8 @@
     181,
     182
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 181,
@@ -51580,7 +51760,8 @@
     180,
     182
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 182,
@@ -51732,7 +51913,8 @@
     183,
     189
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 183,
@@ -51948,7 +52130,8 @@
     189,
     190
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 184,
@@ -52306,7 +52489,8 @@
     191,
     192
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 185,
@@ -52515,7 +52699,8 @@
     192,
     196
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 186,
@@ -52728,7 +52913,8 @@
     187,
     196
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 187,
@@ -53141,7 +53327,8 @@
     178,
     186
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 188,
@@ -53609,7 +53796,8 @@
     178,
     179
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 189,
@@ -53967,7 +54155,8 @@
     183,
     190
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 190,
@@ -54118,7 +54307,8 @@
     191,
     194
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 191,
@@ -54310,7 +54500,8 @@
     194,
     195
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 192,
@@ -54478,7 +54669,8 @@
     195,
     196
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 193,
@@ -54732,7 +54924,8 @@
     197,
     198
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 194,
@@ -54916,7 +55109,8 @@
     195,
     198
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 195,
@@ -55189,7 +55383,8 @@
     198,
     199
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 196,
@@ -55597,7 +55792,8 @@
     195,
     200
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 197,
@@ -55763,7 +55959,8 @@
     198,
     202
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 198,
@@ -55908,7 +56105,8 @@
     199,
     202
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 199,
@@ -56284,7 +56482,8 @@
     202,
     203
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 200,
@@ -56635,7 +56834,8 @@
     201,
     203
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 201,
@@ -56896,7 +57096,8 @@
     204,
     205
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 202,
@@ -57198,7 +57399,8 @@
     198,
     199
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 203,
@@ -57422,7 +57624,8 @@
     204,
     206
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 204,
@@ -57637,7 +57840,8 @@
     205,
     206
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 205,
@@ -58270,7 +58474,8 @@
     201,
     204
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 206,
@@ -58469,7 +58674,8 @@
     203,
     204
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 207,
@@ -58519,7 +58725,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 208,
@@ -58577,7 +58784,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 209,
@@ -58627,7 +58835,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 210,
@@ -59050,7 +59259,8 @@
     213,
     214
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 211,
@@ -59296,7 +59506,8 @@
     214,
     218
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 212,
@@ -59526,7 +59737,8 @@
     213,
     215
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 213,
@@ -59679,7 +59891,8 @@
     216,
     217
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 214,
@@ -59831,7 +60044,8 @@
     217,
     218
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 215,
@@ -60215,7 +60429,8 @@
     216,
     220
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 216,
@@ -60546,7 +60761,8 @@
     217,
     220
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 217,
@@ -60722,7 +60938,8 @@
     218,
     221
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 218,
@@ -61122,7 +61339,8 @@
     219,
     221
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 219,
@@ -61359,7 +61577,8 @@
     218,
     221
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 220,
@@ -61942,7 +62161,8 @@
     215,
     216
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 221,
@@ -62140,7 +62360,8 @@
     218,
     219
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 222,
@@ -62206,7 +62427,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 223,
@@ -62658,7 +62880,8 @@
    "neighbors": [
     225
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 224,
@@ -62942,7 +63165,8 @@
    "neighbors": [
     225
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 225,
@@ -63229,7 +63453,8 @@
     223,
     224
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 226,
@@ -63303,7 +63528,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 227,
@@ -63539,7 +63765,8 @@
    "neighbors": [
     228
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 228,
@@ -64391,7 +64618,8 @@
    "neighbors": [
     227
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 229,
@@ -64465,7 +64693,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 230,
@@ -64515,7 +64744,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 231,
@@ -64581,7 +64811,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 232,
@@ -64975,7 +65206,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 233,
@@ -65053,7 +65285,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 234,
@@ -65447,7 +65680,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 235,
@@ -65811,7 +66045,8 @@
    "neighbors": [
     236
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 236,
@@ -66229,7 +66464,8 @@
    "neighbors": [
     235
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 237,
@@ -66683,7 +66919,8 @@
     240,
     241
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 238,
@@ -67098,7 +67335,8 @@
     241,
     242
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 239,
@@ -67352,7 +67590,8 @@
     242,
     243
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 240,
@@ -67839,7 +68078,8 @@
     244,
     253
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 241,
@@ -68017,7 +68257,8 @@
     245,
     246
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 242,
@@ -68186,7 +68427,8 @@
     246,
     247
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 243,
@@ -68299,7 +68541,8 @@
     247,
     248
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 244,
@@ -68564,7 +68807,8 @@
     256,
     258
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 245,
@@ -68771,7 +69015,8 @@
     246,
     258
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 246,
@@ -69412,7 +69657,8 @@
     258,
     266
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 247,
@@ -69653,7 +69899,8 @@
     250,
     251
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 248,
@@ -69844,7 +70091,8 @@
     249,
     251
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 249,
@@ -70300,7 +70548,8 @@
     254,
     259
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 250,
@@ -70596,7 +70845,8 @@
     267,
     268
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 251,
@@ -70732,7 +70982,8 @@
     250,
     252
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 252,
@@ -70949,7 +71200,8 @@
     268,
     275
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 253,
@@ -71235,7 +71487,8 @@
     244,
     256
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 254,
@@ -71491,7 +71744,8 @@
     260,
     261
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 255,
@@ -71688,7 +71942,8 @@
     254,
     261
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 256,
@@ -71944,7 +72199,8 @@
     258,
     264
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 257,
@@ -72071,7 +72327,8 @@
     264,
     265
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 258,
@@ -72313,7 +72570,8 @@
     265,
     266
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 259,
@@ -72618,7 +72876,8 @@
     269,
     275
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 260,
@@ -72906,7 +73165,8 @@
     269,
     277
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 261,
@@ -73167,7 +73427,8 @@
     260,
     303
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 262,
@@ -73653,7 +73914,8 @@
     286,
     287
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 263,
@@ -73994,7 +74256,8 @@
     262,
     270
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 264,
@@ -74242,7 +74505,8 @@
     270,
     271
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 265,
@@ -74395,7 +74659,8 @@
     271,
     272
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 266,
@@ -74572,7 +74837,8 @@
     272,
     273
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 267,
@@ -74843,7 +75109,8 @@
     268,
     273
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 268,
@@ -74980,7 +75247,8 @@
     274,
     275
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 269,
@@ -75252,7 +75520,8 @@
     276,
     277
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 270,
@@ -75516,7 +75785,8 @@
     278,
     279
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 271,
@@ -75652,7 +75922,8 @@
     272,
     279
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 272,
@@ -75798,7 +76069,8 @@
     280,
     281
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 273,
@@ -75959,7 +76231,8 @@
     274,
     281
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 274,
@@ -76136,7 +76409,8 @@
     282,
     283
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 275,
@@ -76419,7 +76693,8 @@
     283,
     284
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 276,
@@ -76579,7 +76854,8 @@
     284,
     285
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 277,
@@ -76794,7 +77070,8 @@
     276,
     285
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 278,
@@ -77088,7 +77365,8 @@
     279,
     287
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 279,
@@ -77267,7 +77545,8 @@
     288,
     289
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 280,
@@ -77411,7 +77690,8 @@
     289,
     290
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 281,
@@ -77564,7 +77844,8 @@
     282,
     290
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 282,
@@ -77761,7 +78042,8 @@
     283,
     290
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 283,
@@ -77945,7 +78227,8 @@
     284,
     291
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 284,
@@ -78089,7 +78372,8 @@
     285,
     291
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 285,
@@ -78266,7 +78550,8 @@
     292,
     293
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 286,
@@ -78601,7 +78886,8 @@
     294,
     295
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 287,
@@ -78835,7 +79121,8 @@
     295,
     296
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 288,
@@ -78955,7 +79242,8 @@
     296,
     297
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 289,
@@ -79107,7 +79395,8 @@
     290,
     297
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 290,
@@ -79331,7 +79620,8 @@
     289,
     297
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 291,
@@ -79650,7 +79940,8 @@
     285,
     292
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 292,
@@ -79822,7 +80113,8 @@
     291,
     293
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 293,
@@ -80275,7 +80567,8 @@
     285,
     292
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 294,
@@ -80472,7 +80765,8 @@
     286,
     295
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 295,
@@ -80751,7 +81045,8 @@
     294,
     296
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 296,
@@ -80975,7 +81270,8 @@
     297,
     299
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 297,
@@ -81185,7 +81481,8 @@
     299,
     300
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 298,
@@ -81375,7 +81672,8 @@
     300,
     301
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 299,
@@ -81589,7 +81887,8 @@
     297,
     300
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 300,
@@ -81894,7 +82193,8 @@
     299,
     301
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 301,
@@ -82083,7 +82383,8 @@
     298,
     300
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 302,
@@ -82375,7 +82676,8 @@
    "neighbors": [
     303
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 303,
@@ -82743,7 +83045,8 @@
     305,
     306
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 304,
@@ -82964,7 +83267,8 @@
     303,
     305
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 305,
@@ -83453,7 +83757,8 @@
     308,
     309
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 306,
@@ -83820,7 +84125,8 @@
     308,
     311
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 307,
@@ -84019,7 +84325,8 @@
     309,
     310
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 308,
@@ -84219,7 +84526,8 @@
     310,
     311
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 309,
@@ -84378,7 +84686,8 @@
     310,
     313
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 310,
@@ -84577,7 +84886,8 @@
     309,
     311
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 311,
@@ -84902,7 +85212,8 @@
     310,
     312
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 312,
@@ -85202,7 +85513,8 @@
    "neighbors": [
     311
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 313,
@@ -85526,7 +85838,8 @@
    "neighbors": [
     309
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 314,
@@ -85608,7 +85921,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 315,
@@ -85706,7 +86020,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 316,
@@ -85894,7 +86209,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 317,
@@ -85984,7 +86300,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 318,
@@ -86066,7 +86383,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 319,
@@ -86116,7 +86434,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 320,
@@ -86182,7 +86501,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 321,
@@ -86254,7 +86574,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 322,
@@ -86312,7 +86633,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 323,
@@ -86722,7 +87044,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 324,
@@ -86948,7 +87271,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 325,
@@ -87078,7 +87402,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 326,
@@ -87152,7 +87477,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 327,
@@ -87490,7 +87816,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 328,
@@ -87676,7 +88003,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 329,
@@ -87734,7 +88062,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 330,
@@ -87784,7 +88113,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 331,
@@ -88034,7 +88364,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 332,
@@ -88100,7 +88431,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 333,
@@ -88166,7 +88498,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 334,
@@ -88530,7 +88863,8 @@
    "neighbors": [
     335
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 335,
@@ -88838,7 +89172,8 @@
    "neighbors": [
     334
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 336,
@@ -88920,7 +89255,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 337,
@@ -89202,7 +89538,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 338,
@@ -89396,7 +89733,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 339,
@@ -89446,7 +89784,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 340,
@@ -89512,7 +89851,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 341,
@@ -89626,7 +89966,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 342,
@@ -89700,7 +90041,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 343,
@@ -89798,7 +90140,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 344,
@@ -89872,7 +90215,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 345,
@@ -90076,7 +90420,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 346,
@@ -90390,7 +90735,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 347,
@@ -90544,7 +90890,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 348,
@@ -90618,7 +90965,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 349,
@@ -90700,7 +91048,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 350,
@@ -90766,7 +91115,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 351,
@@ -91187,7 +91537,8 @@
     352,
     353
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 352,
@@ -91873,7 +92224,8 @@
     353,
     354
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 353,
@@ -92064,7 +92416,8 @@
     354,
     355
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 354,
@@ -92344,7 +92697,8 @@
     353,
     355
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 355,
@@ -92645,7 +92999,8 @@
     353,
     354
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 356,
@@ -92703,7 +93058,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 357,
@@ -92761,7 +93117,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 358,
@@ -92995,7 +93352,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 359,
@@ -93101,7 +93459,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 360,
@@ -93215,7 +93574,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 361,
@@ -93683,7 +94043,8 @@
    "neighbors": [
     362
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 362,
@@ -94352,7 +94713,8 @@
     361,
     363
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 363,
@@ -94878,7 +95240,8 @@
    "neighbors": [
     362
    ],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 364,
@@ -95312,7 +95675,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 365,
@@ -95594,7 +95958,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 366,
@@ -95676,7 +96041,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 367,
@@ -95742,7 +96108,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 368,
@@ -95824,7 +96191,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 369,
@@ -96462,7 +96830,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 370,
@@ -96550,7 +96919,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 371,
@@ -96616,7 +96986,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 372,
@@ -96666,7 +97037,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 373,
@@ -97164,7 +97536,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 374,
@@ -97270,7 +97643,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 375,
@@ -97338,7 +97712,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 376,
@@ -97774,7 +98149,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 377,
@@ -98090,7 +98466,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 378,
@@ -98156,7 +98533,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 379,
@@ -98766,7 +99144,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 380,
@@ -98832,7 +99211,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 381,
@@ -98938,7 +99318,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 382,
@@ -99172,7 +99553,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 383,
@@ -99648,7 +100030,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": false
+   "small_exempt": false,
+   "player_start": false
   },
   {
    "label": 384,
@@ -99714,7 +100097,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 385,
@@ -99780,7 +100164,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 386,
@@ -99854,7 +100239,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 387,
@@ -99984,7 +100370,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 388,
@@ -100058,7 +100445,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   },
   {
    "label": 389,
@@ -100122,7 +100510,8 @@
     ]
    ],
    "neighbors": [],
-   "small_exempt": true
+   "small_exempt": true,
+   "player_start": false
   }
  ]
 }
