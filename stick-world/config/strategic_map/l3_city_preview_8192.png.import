@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://wkkiox0oxns8"
-path="res://.godot/imported/l3_l1_index_2048.png-2f2d1f0adac73221677fc5a728a11ac4.ctex"
+uid="uid://b6gcbken20e1w"
+path="res://.godot/imported/l3_city_preview_8192.png-1a8af4f31826dc888c2d9e2f9fdb34fc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://config/strategic_map/l3_l1_index_2048.png"
-dest_files=["res://.godot/imported/l3_l1_index_2048.png-2f2d1f0adac73221677fc5a728a11ac4.ctex"]
+source_file="res://config/strategic_map/l3_city_preview_8192.png"
+dest_files=["res://.godot/imported/l3_city_preview_8192.png-1a8af4f31826dc888c2d9e2f9fdb34fc.ctex"]
 
 [params]
 
